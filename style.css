@@ -17,8 +17,8 @@ header{
 
 nav a{
     color:white;
-    text-decoration:navy
-    font-size:18px;
+    text-decoration:navy;
+    font-size:  18px;
 }
 nav{
     display: flex;
